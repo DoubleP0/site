@@ -16,3 +16,11 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
+
+
+<p class="codepen" data-height="316" data-theme-id="light" data-default-tab="css,result" data-user="p15papa" data-slug-hash="eYzzKZm" style="height: 316px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="2015013/Παραδοτέο 2">
+  <span>See the Pen <a href="https://codepen.io/p15papa/pen/eYzzKZm">
+  2015013/Παραδοτέο 2</a> by p15papa (<a href="https://codepen.io/p15papa">@p15papa</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
